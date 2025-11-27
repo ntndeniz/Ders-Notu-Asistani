@@ -16,10 +16,6 @@
 * **⚡ Seçmeli Kontrol:** İsterseniz tüm dersleri, isterseniz sadece seçtiğiniz dersleri kontrol eder.
 * **🛡️ Hata Toleransı:** Pop-up engelleri, bağlantı kopmaları veya hatalı linkleri otomatik olarak yönetir ve aşar.
 
-## 📸 Ekran Görüntüleri
-
-*(Buraya uygulamanın ekran görüntülerini ekleyebilirsiniz. Örneğin: screenshots/panel.png)*
-
 ## 🛠️ Kurulum
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
@@ -94,4 +90,5 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 Geliştirici: Nurettin Deniz
 
 📧 İletişim: ntndeniz66@gmail.com
+
 

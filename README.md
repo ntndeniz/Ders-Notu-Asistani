@@ -29,7 +29,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 git clone [https://github.com/ntndeniz/Ders-Notu-Asistani.git](https://github.com/ntndeniz/Ders-Notu-Asistani.git)
 cd Ders-Notu-Asistani
 
-2. Sanal Ortamı Oluşturun 
+### 2. Sanal Ortamı Oluşturun 
 Projenin kütüphanelerinin sisteminize karışmaması için sanal ortam kullanmanız önerilir.
 
 Mac / Linux:
@@ -44,17 +44,17 @@ Bash
 
 python -m venv venv
 venv\Scripts\activate
-3. Gerekli Kütüphaneleri Yükleyin
+### 3. Gerekli Kütüphaneleri Yükleyin
 Bash
 
 pip install -r requirements.txt
 (Eğer requirements.txt yoksa manuel kurulum için: pip install selenium webdriver-manager customtkinter pillow requests)
 
-4. Uygulamayı Başlatın
+### 4. Uygulamayı Başlatın
 Bash
-
 python panel.py
-🚀 Kullanım
+
+### 🚀 Kullanım
 Uygulama açıldığında sol menüden "Ayarlar" sekmesine gidin ve okul numaranız/şifrenizi bir kez kaydedin.
 
 "Ders Ekle" menüsünden takip etmek istediğiniz dersin Adını, Hoca Adını ve OBS Linkini ekleyin.
@@ -65,7 +65,7 @@ Uygulama açıldığında sol menüden "Ayarlar" sekmesine gidin ve okul numaran
 
 Program otomatik olarak tarayıcıyı açacak, işlemleri yapacak ve dosyaları masaüstünüze indirecektir.
 
-📂 Proje Yapısı
+### 📂 Proje Yapısı
 Plaintext
 
 Ders-Notu-Asistani/
@@ -77,7 +77,7 @@ Ders-Notu-Asistani/
 ├── logo.png                # Uygulama logosu
 ├── app_icon.icns           # Mac uygulama ikonu
 └── requirements.txt        # Gerekli kütüphaneler listesi
-🤝 Katkıda Bulunma
+### 🤝 Katkıda Bulunma
 Bu depoyu Fork'layın.
 
 Yeni bir özellik dalı (branch) oluşturun (git checkout -b feature/YeniOzellik).
@@ -88,9 +88,10 @@ Dalınızı Push'layın (git push origin feature/YeniOzellik).
 
 Bir Pull Request açın.
 
-📝 Lisans
+### 📝 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-Geliştirici: Deniz
+Geliştirici: Nurettin Deniz
 
 📧 İletişim: ntndeniz66@gmail.com
+
